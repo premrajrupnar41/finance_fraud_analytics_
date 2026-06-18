@@ -1,8 +1,5 @@
 # 💳 Credit Card Fraud Detection & Financial Risk Analytics
 
-## Resume One-Liner
-> "Developed a fraud detection system on 284K+ transactions achieving 94% AUC using Python and SQL, reducing false positives by 30% through feature engineering and threshold optimization."
-
 ## Folder Structure
 ```
 finance_fraud_analytics/
